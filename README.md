@@ -53,7 +53,6 @@ Currently, there are no major known bugs in the project. However, please note:
 For help, questions, or feedback:
 
 - **Developer:** Kaynan Mwangi
-- **Phone:** [+254 723 768 083](tel:+254723768083)
 - **Email:** [caeserkaynan@gmail.com](mailto:caeserkaynan@gmail.com)
 - **Preferred Contact Method:** Email
 
